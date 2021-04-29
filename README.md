@@ -1,2 +1,2 @@
-# learrnScala
+# learnScala
 Practice Scala
